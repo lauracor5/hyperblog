@@ -3,10 +3,12 @@ Mañana nos enfocaremos en su vida verdadera
 
 Master1
 
-<<<<<<< HEAD
+
 Master2
 
 Master3
-=======
+
 Master2
->>>>>>> master
+
+Master4
+
